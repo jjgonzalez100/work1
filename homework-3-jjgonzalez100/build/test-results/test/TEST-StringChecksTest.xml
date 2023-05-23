@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="StringChecksTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-02-10T00:25:30" hostname="LAPTOP-1KMUQNTL" time="0.336">
-  <properties/>
-  <testcase name="anagram_shouldBeAnagramsWithSameStartingLetter()" classname="StringChecksTest" time="0.336"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
